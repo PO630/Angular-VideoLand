@@ -1,0 +1,175 @@
+{
+    "games":
+    [
+        {
+            "name":"Divinity: Original Sin II",
+            
+            "type":["RPG","COOP","AVENTURE"],
+            
+            "price":29.99,
+            
+            "description":"Le Divin est mort, le Néant approche à grands pas, et la puissance qui sommeille en vous est sur le point de s'éveiller. Le combat pour la divinité a commencé. Soupesez vos décisions avec soin et accordez votre confiance avec parcimonie, car les ténèbres rôdent dans tous les cœurs.Explorez le vaste monde de Rivellon seul ou dans un groupe comprenant un maximum de 4 joueurs grâce à un mode coopératif vous permettant de quitter vos amis et de les rejoindre à tout moment. Allez où bon vous semble, laissez libre cours à votre imagination et découvrez des possibilités d'interaction infinies avec le monde de jeu. L'aventure ne se limite pas à Rivellon, prolongez-la avec deux nouveaux modes inédits : JcJ et Maître de Jeu.",
+            
+            "stock":12,
+
+            "img_sell":"https://s2.gaming-cdn.com/images/products/997/271x377/divinity-original-sin-ii-cover.jpg",
+
+            "img_back":"https://steamcdn-a.akamaihd.net/steam/apps/435150/capsule_616x353.jpg?t=1568735755",
+            
+            "Config":[
+                {
+                    "OS" : "Windows 7",
+                    "Processor" : "Intel Core i5",
+                    "Memory" : "4 GB RAM",
+                    "Graphics" : "NVIDIA GeForce GTX 550",
+                    "DirectX" : "Version 11",
+                    "Storage" : "60 GB"
+                }
+            ],
+
+            "img_game":
+            [
+                "https://steamcdn-a.akamaihd.net/steam/apps/435150/capsule_616x353.jpg?t=1568735755",
+                "https://d3isma7snj3lcx.cloudfront.net/optim/images/review/30/3050798617/divinity-original-sin-2-le-bon-dieu-sans-concessions-eb8b3573.jpg",
+                "https://cdn03.nintendo-europe.com/media/images/06_screenshots/games_5/nintendo_switch_download_software_2/nswitchds_divinityoriginalsin2definitiveedition/NSwitchDS_DivinityOriginalSin2DefinitiveEdition_01.jpg",
+                "https://www.tryagame.fr/wp-content/uploads/2017/09/20170917164059_1.jpg"
+            ]
+
+        },
+
+        {
+            "name":"Doom Eternal",
+            
+            "type":["ACTION","FPS","AVENTURE"],
+            
+            "price":49.99,
+            
+            "description":"Découvrez le mélange ultime de vitesse et de puissance en vous plongeant dans des combats à la première personne bourré d'action.Armé d'un lance-flammes monté sur l'épaule, d'une lame de poignet rétractable, d'armes et mods améliorés et de compétences comme le double sprint, vous êtes plus rapide et mortel que jamais.Prenez ce dont vous avez besoin sur vos ennemis : faites des Glory Kills pour récupérer de la santé, incinérez-les pour obtenir de l'armure et tronçonnez-les pour des munitions.Nouvelle expérience multijoueur en 2 contre 1 entièrement conçue par id Software où un Slayer bien équipé affronte deux démons contrôlés par des joueurs, pour trois manches d'intense combat à la première personne.",
+
+            "stock":2,
+
+            "img_sell":"https://s2.gaming-cdn.com/images/products/5155/271x377/doom-eternal-deluxe-edition-cover.jpg",
+
+            "img_back":"https://www.cowcotland.com/images/news/2020/04/speedrun-doometernal.jpg",
+            
+            "Config":[
+                {
+                    "OS" : "Windows 7",
+                    "Processor" : "Intel Core i5",
+                    "Memory" : "8 GB RAM",
+                    "Graphics" : "NVIDIA GeForce GTX 670",
+                    "DirectX" : "Version 11",
+                    "Storage" : "55 GB"
+                }
+            ],
+
+            "img_game":
+            [
+                "https://www.cowcotland.com/images/news/2020/04/speedrun-doometernal.jpg",
+                "https://cdn-uploads.gameblog.fr/images/jeux/hi/24330/DOOMEternal_Multi_Editeur_006.png",
+                "https://cdn.mos.cms.futurecdn.net/CbgYDZdQB42veXJHvzi52c.jpg"
+            ]
+
+        },
+        {
+            "name":"Cyberpunk 2077",
+            
+            "type":["ACTION","FPS","RPG"],
+            
+            "price":59.99,
+            
+            "description":"Cyberpunk 2077 pour PC est un jeu de tir à la première personne, mais avec une différence. Dans un État libre dystopique de Californie, les règles de la nation et de l'État ne s'appliquent plus. Au lieu de cela, jouant comme un mercenaire nommé V, le joueur doit travailler sur le chemin qu'il emprunte autour de la ville, atteignant ses buts et se battant contre des ennemis qui apparaissent au fur et à mesure du jeu.",
+
+            "stock":0,
+
+            "img_sell":"https://s1.gaming-cdn.com/images/products/840/271x377/cyberpunk-2077-cover.jpg",
+
+            "img_back":"https://www.cowcotland.com/images/news/2020/04/cyberpunk-2077-termine-cd-projekt-red.jpg",
+
+            "img_game":
+            [
+                "https://www.cowcotland.com/images/news/2020/04/cyberpunk-2077-termine-cd-projekt-red.jpg",
+                "https://worldissmall.fr/wp-content/uploads/2020/01/Keanu-Reeves-Cyberpunk-2077.jpg",
+                "https://static.cdprojektred.com/cyberpunk.net/news/small/cyberpunk.net_fr_1567168797_5d69191e615a73.66447919.jpg"
+            ]
+
+        },
+        {
+            "name":"Civilization VI (Europe)",
+            
+            "type":["GESTION","HISTOIRE","4X"],
+            
+            "price":10.55,
+            
+            "description":"Civilisation VI pour PC est un jeu de construction d'empire 4X, basé sur le tour par tour. 4X signifie eXplore, eXpand, eXploit, eXterminate, et c'est un résumé réaliste de ce que le joueur doit faire pour faire passer la civilisation de petit village à superpuissance.",
+            
+            "stock":122,
+
+            "img_sell":"https://s1.gaming-cdn.com/images/products/1437/271x377/civilization-vi-cover.jpg",
+
+            "img_back":"https://wallsdesk.com/wp-content/uploads/2016/10/Sid-Meier%E2%80%99s-Civilization-VI-Pictures.jpg",
+            
+            "Config":[
+                {
+                    "OS" : "Windows 7",
+                    "Processor" : "Intel Core i3",
+                    "Memory" : "4 GB RAM",
+                    "Graphics" : "NVIDIA GeForce GTX 530",
+                    "DirectX" : "Version 11",
+                    "Storage" : "12 GB"
+                }
+            ],
+
+            "img_game":
+            [
+                "https://wallsdesk.com/wp-content/uploads/2016/10/Sid-Meier%E2%80%99s-Civilization-VI-Pictures.jpg",
+                "https://images6.alphacoders.com/743/743444.jpg",
+                "https://gpstatic.com/acache/30/31/12/fr/s10-2e8225d079deec5a3993ef89cd56a8b0.jpg",
+                "https://s1.gaming-cdn.com/images/products/1437/screenshot/civilization-vi-wallpaper-1.jpg",
+                "https://i.ytimg.com/vi/7krGb9TTLsc/maxresdefault.jpg"
+            ]
+
+        },
+        {
+            "name":"Assassin's Creed Odyssey (Europe)",
+            
+            "type":["RPG","AVENTURE"],
+            
+            "price":23.00,
+            
+            "description":"Assassins Creed Odyssey: Europe pour PC est le dernier-né de la série de jeux de rôle d'action populaire et de grande envergure dans laquelle le joueur devient un assassin à une certaine époque (grèce antique). Il y a, à ce jour, dix jeux principaux et dix-sept jeux dérivés ainsi que beaucoup d'autres produits, tels que des livres et des films.",
+            
+            "stock":23,
+
+            "img_sell":"https://s3.gaming-cdn.com/images/products/2648/271x377/assassins-creed-odyssey-cover.jpg",
+
+            "img_back":"https://images8.alphacoders.com/927/thumb-1920-927077.jpg",
+            
+            "Config":[
+                {
+                    "OS" : "Windows 7",
+                    "Processor" : "Intel Core i5",
+                    "Memory" : "8 GB RAM",
+                    "Graphics" : "NVIDIA GeForce GTX 660",
+                    "DirectX" : "Version 11",
+                    "Storage" : "46 GB"
+                }
+            ],
+
+            "img_game":
+            [
+                "https://images8.alphacoders.com/927/thumb-1920-927077.jpg",
+                "https://s3.gaming-cdn.com/images/products/2648/screenshot/assassins-creed-odyssey-wallpaper-1.jpg",
+                "https://s3.gaming-cdn.com/images/products/2648/screenshot/assassins-creed-odyssey-wallpaper-2.jpg",
+                "https://s3.gaming-cdn.com/images/products/2648/screenshot/assassins-creed-odyssey-wallpaper-3.jpg"
+            ]
+
+        }
+
+
+
+
+
+
+    ]
+}

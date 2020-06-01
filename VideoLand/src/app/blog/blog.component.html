@@ -1,0 +1,64 @@
+<div *ngFor="let product of products">
+
+  <ng-template #content let-modal>
+
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title">{{ product.name }}</h4>
+      <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+
+    <div class="modal-body">
+
+        <ngb-carousel *ngIf="product.img_game">
+          <ng-template ngbSlide *ngFor="let img_g of product.img_game">
+            <div class="picsum-img-wrapper">
+              <img class="img_back" src="{{img_g}}">
+            </div>
+          </ng-template>
+        </ngb-carousel>
+  
+
+      <ngb-accordion>
+        <ngb-panel title="Description">
+          <ng-template ngbPanelContent>
+             <p *ngIf="product.description"> {{ product.description }}</p>
+          </ng-template>
+        </ngb-panel>
+      </ngb-accordion>
+
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" class="btn btn-outline-dark" (click)="modal.close('Save click')">Save</button>
+    </div>
+    
+  </ng-template>
+
+  <!-- Visuel Image + Button : Affiche la gallery des produits -->
+  <div class="responsive">
+    <div class="gallery">
+        {{inStock(product)}}
+        
+        <ng-template [ngIf]="inStockTest" [ngIfElse]="elseTemplate"> 
+          <div style="position: relative;">
+            <img src="{{product.img_sell}}" style="box-shadow: inset 0px 0px 10% rgba(0,0,0,0.9);">
+            <div class="bottom_right_img">{{product.price}}€</div>
+          </div>
+         </ng-template>
+        
+        
+        <ng-template #elseTemplate>
+          <div style="position: relative;"> 
+            <img class="noStock" src="{{product.img_sell}}">
+            <div class="centered_img">hors stock</div>
+          </div>
+         </ng-template>
+
+        <button class="button" (click)="open(content)">Voir</button>
+    </div>
+  </div>
+
+</div>
+
